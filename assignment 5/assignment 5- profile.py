@@ -28,6 +28,7 @@ print("Score:", score)
 print("Grade:", grade)
 print("Remark:", remark)
 
+
 if grade == "F":
     print("better luck next time")
 else:
