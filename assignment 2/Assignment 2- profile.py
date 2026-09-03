@@ -1,4 +1,4 @@
-#STUDENT INFORMATION CARD
+STUDENT INFORMATION CARD
 full_name="John Doe"
 age="20"
 department="computer science"
@@ -11,9 +11,9 @@ birth_year=2005
 current_year=2026
 calculated_age= current_year-birth_year
 
-print("---")
+print("--------------------------")
 print("STUDENT INFORMATION CARD")
-print("---")
+print("--------------------------")
 print("full name:", full_name)
 print("age:", age)
 print("department:", department)
