@@ -1,6 +1,6 @@
-print("***")
+print("**************************")
 print("STUDENT PROFILE")
-print("***")
+print("**************************")
 print("WELCOME TO PYTHON")
 print("Name: John Doe")
 print("School: ABC University")
