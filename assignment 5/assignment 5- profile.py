@@ -18,6 +18,9 @@ elif score > 40:
 elif score >= 0 and score < 40:
     grade = "F"
     remark = "Fail"
+else:
+    grade = "Invalid"
+    remark = "Score cannot be negative"
 
 
 print("==========================")
